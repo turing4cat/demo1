@@ -20,6 +20,7 @@
         <module>spring_day04_demo1_anno</module>
         <module>spring_demo_tx</module>
 		 <module>day04_01_tx_aop_xml</module>
+		  <module>day04_01_tx_aop1_xml</module>
 		
     </modules>
 
